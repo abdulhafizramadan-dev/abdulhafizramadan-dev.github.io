@@ -8,11 +8,17 @@ weight: 4
 # **About Me** 
 
 Hi I am **{{ site.author.name }}** :wave:,<br><br>
-Bachelor of Computer Science at the Software Engineering Department, Faculty of Informatics, Telkom Institute of Technology, has a lot of experience in working on Android-based projects and teaches as an assistant professor and lab in the Mobile Development subject. Aspire to be a developer in Silicon Valley, a researcher, and a technopreneur in the future and embody a diligent personality and a passion for learning.<br><br>
-- I also Android Enthusiasm and currently as Android Developer Associate at LinkAja
-- Mentor & Facilitator in Mobile Developer in Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka
+Abdul Hafiz Ramadan is a professional android developer with more than 4 years of experience in
+software engineering. He has an educational background in Software Engineering and has been
+passionate about coding since high school and has participated in many courses and activities
+related to software engineering. During college he actively participated in software engineering
+related activities such as being a Lecturer Assistant, Mini Android Bootcamp Mentor and actively
+contributed to the Google Developer Student Clubs community as a head of core team for the
+curriculum and developer division. He has solid skills in Java, Kotlin, and JavaScript and PHP
+programming languages, he has a great interest in creating great user experiences and innovative
+products.
 
-{% include elements/button.html link="https://github.com/derysudrajat/derysudrajat.github.io/raw/new-pages/assets/CV%20Dery%20Sudrajat%20-%20Android%20Developer.pdf" text="Download CV" %}
+{% include elements/button.html link="https://github.com/abdulhafizramadan-dev/abdulhafizramadan-dev.github.io/files/14156902/CV.Abdul.Hafiz.Ramadan.pdf" text="Download CV" %}
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
@@ -25,8 +31,8 @@ Bachelor of Computer Science at the Software Engineering Department, Faculty of 
     <div class="timeline-item">
         <div class="content">
           <h2>Telkom Insitute of Technology, Indonesia</h2>
-          <h6 class="date">2017 - 2021</h6>
-          <p>Bachelor of Computer Science at Software Engineering Department, Faculty of Informatics, as Best Graduate in Academics 2021 with a GPA of 3.95 out of 4.0, and also become The Most Outstanding Student in 2019.</p>
+          <h6 class="date">2020 - 2024</h6>
+          <p>Bachelor of Computer Science at Software Engineering Department, Faculty of Informatics, as Best Graduate in Academics 2021 with a GPA of 3.90 out of 4.0.</p>
         </div>
       </div>
 </div>

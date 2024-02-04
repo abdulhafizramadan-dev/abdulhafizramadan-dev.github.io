@@ -1,35 +1,36 @@
-- title: Mentor and Facilitator of Bangkit 2022
+- title: Bangkit 2023 Batch 2 Cohort - Mobile Development
+  year: 2023
+  description: Program Bangkit is a collaborative initiative led by Google, Tokopedia, Gojek, and Traveloka. The program aims to train and develop tech talent in Indonesia. During this program, participants undergo intensive 6-month training with a focus on machine learning and cloud computing.
+
+- title: Generasi Gigih 3.0 - Mobile Engineer Learning Track
+  year: 2023
+  description: The Generasi Gigih 3.0 program is an intensive training program specifically designed to improve the skills and competitiveness of young talents in the technology field. The program is organized by the GoTo Impact Foundation, a non-profit organization established by the GoTo Group. The Generasi Gigih 3.0 program lasts for 6 months, starting from June 27, 2023 to December 11, 2023.
+
+- title: Head of Core Team Curriculum & Developers Division
+  year: 2022 - 2023
+  description: Google Developer Student Clubs are university based community groups for students interested in Google developer technologies. Students from all undergraduate or graduate programs with an interest in growing as a developer are welcome. By joining a GDSC, students grow their knowledge in a peer-to-peer learning environment and build solutions for local businesses and their community.
+
+- title: Become a GDSC Android Study Jam Mentor batch 1 (4 session)
+  year: 2023
+  description: Become a mentor in mobile android development using Kotlin programming language in a Study Jam event organized by Google Developer Student Clubs Chapter IT Telkom Purwokerto. This meeting discusses the fundamentals of Kotlin programming language introduction and learning about basic kotlin, functional programming, object orientation programming in  kotlin programming languages.
+
+- title: Become a GDSC Android Study Jam Mentor batch 2 (2 session)
+  year: 2023
+  description: Become a mentor in mobile android development using Kotlin programming language in a Study Jam event organized by Google Developer Student Clubs Chapter IT Telkom Purwokerto. This meeting discusses the fundamentals of jetpack compose.
+
+- title: Project-Based Virtual Intern Mobile Apps Developer Bank Mandiri Tbk x Rakamin Academy
+  year: 2023
+  description: The Virtual Internship Experiences program is the result of collaboration between Rakamin and Partner Companies in order to improve the competence of young Indonesian talent through the provision of virtual internship experiences that have been standardized and tested so as to meet the needs of hardskill development and portfolio building for interns. Rakamin's virtual internship program has really helped me to in answering questions about mobile development on Android and IOS platforms.
+
+- title: Practice Assistant of Algorithms and Programming
   year: 2022
-  description: Become Mentor for capstone project in Bangkit 2022, and also become facilitator that help and manage Bangkit Cohort for 6 months to learn some of Android Development Courses and help them to be well prepared on Google Android Associated Developer Certification.
+  description: Become a teaching assistant in the Algorithms and Programming Practicum which understands, selects, and uses good algorithms programming using Python in some departments such as Informatics, Information Systems, and Software Engineering.
 
-- title: Facilitator of Digital Telent Scholarship Professional Academy 2021
-  year: 2021
-  description: Become a Facilitator in the Digital Talent Scholarship Professional Academy (DTS PROA) in the Android program for 3 months organized by the Ministry of Communication and Information
+- title: Practice Assistant of Object-Oriented Programming
+  year: 2022
+  description: Become an assistant teacher in Object-Oriented Programming practicum which understands object-based programming concepts using Java in some departments such as Informatics, Information System, and Software Engineering Department.
 
-- title: Graduate of Bangkit 2021
-  year: 2021
-  description: Became 1 of the 3000 people selected to participate in the Bangkit activity as an Android Developer led by Google, Gojek, Tokopedia, Traveloka, and supported by the Ministry of Education and Culture of the Republic of Indonesia to produce world-class talents in 3 different fields, such as Android Developer, Machine Learning Developer, and Cloud Computing
-
-- title: Telkom Digital Talent Incubator 2020
-  year: 2020
-  description: Talent scouting participants at Telkom Digital Talent Incubator as Android Developer organized by Telkom Indonesia, which selected 500 participants from all over Indonesia for several categories, and only 200 people were selected as Android Developer participants
-
-- title: Research Project on Android
-  year: 2019 - 2020
-  description: Having made several android projects namely Krrja.com, Tangkap Reptil, Petani.id, Seriina, Pet-Paradise, Sidak, Krrja.com is a freelance job search platform that makes it easy to find freelancers based on the closest distance. While Tangkap Teptil is a reptile education, rescue, and marketplace application that can identify reptile types using object detection. More project can be seen on my Github Profile.
-
-- title: Android Developer Webinar Speakers
-  year: 2019
-  description: Being a speaker at the Android Developer Webinar event organized by the National Computer and Informatics Student Association (Perkominas) of Central Java with a total of 500 participants.
-
-- title: Ngoprek Day’s Speakers
-  year: 2019
-  description: Ngoprek Day’s is a tech talk activity organized by the Software Engineering Student Association, which held every week with different Android topic every week
-
-- title: Lab Assistant And Assistant Professor
-  year: 2018
-  description: Become a lab assistant in 3 different study programs, Informatics Engineering, Software Engineering, and Information Systems, with 4 different courses such as Mobile Development, Object-Oriented Programming, Programming and Data Structures, and Programming Algorithms
-
-- title: Facilitator of Indonesia Android Kejar 2017
-  year: 2017
-  description: Activities carried out to support the government to realize 100,000 developers and 1000 startup in Indonesia, this activity is also supported by Google directly and carried out in 10 cities in Indonesia
+- title: Become an android mentor at Ngoprek HMSE
+  year: 2022
+  description: Become a mentor in mobile android development in a Ngoprek event organized by Himpunan Mahasiswa Software Engineering IT Telkom Purwokerto. This meeting discusses the fundamentals of android development.
+  

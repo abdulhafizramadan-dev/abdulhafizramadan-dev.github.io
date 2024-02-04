@@ -3,17 +3,13 @@
   color: warning
 
 - name: Java
-  percentage: 90
+  percentage: 85
   color: danger
 
-- name: Python
-  percentage: 85
+- name: php
+  percentage: 80
   color: info
 
 - name: Java Script
-  percentage: 75
+  percentage: 80
   color: primary
-
-- name: Swift
-  percentage: 70
-  color: secondary
