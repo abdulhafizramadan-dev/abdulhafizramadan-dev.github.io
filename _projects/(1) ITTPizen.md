@@ -6,5 +6,4 @@ description: ITTPizen is a social media application that facilitates the IT Teko
 the desired information and job vacancies quickly and precisely. ITTPizen is also a platform for the
 Institut Teknologi Purwokerto community and alumni to connect with each other. Purwokerto with
 alumni to be able to connect with each other.
-external_url: 
 ---
