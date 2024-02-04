@@ -1,0 +1,19 @@
+- name: Kotlin
+  percentage: 95
+  color: warning
+
+- name: Java
+  percentage: 90
+  color: danger
+
+- name: Python
+  percentage: 85
+  color: info
+
+- name: Java Script
+  percentage: 75
+  color: primary
+
+- name: Swift
+  percentage: 70
+  color: secondary
