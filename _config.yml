@@ -1,7 +1,7 @@
 ### Site Settings ###
 title               : Abdul Hafiz Ramadan
 description         : >-
-                      I'am is a professional android developer with more than 4 years of experience in software engineering. During college I actively participated in software engineering related activities such as being a Lecturer Assistant, and Mini Android Bootcamp Mentor. I have solid skills in Java, Kotlin, JavaScript and PHP programming languages, I have a great interest in creating great user experiences and innovative products.
+                      I'am a professional android developer with more than 4 years of experience in software engineering. During college I actively participated in software engineering related activities such as being a Lecturer Assistant, and Mini Android Bootcamp Mentor. I have solid skills in Java, Kotlin, JavaScript and PHP programming languages, I have a great interest in creating great user experiences and innovative products.
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : abdulhafizramadan-dev/abdulhafizramadan-dev.github.io    # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
