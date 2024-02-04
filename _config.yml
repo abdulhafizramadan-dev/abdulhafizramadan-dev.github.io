@@ -1,13 +1,7 @@
 ### Site Settings ###
-title               : Portfolio Abdul Hafiz Ramadan
+title               : Abdul Hafiz Ramadan
 description         : >-
-                      I'm Bachelor of Computer Science at Software Engineering Department,
-
-                      Android Developer Associate at LinkAja,
-
-                      Facilitator and Mentor in Bangkit 2022 led by Google, GoTo, and Traveloka
-                      
-                      Also an Android Enthusiasm, I Love Android very much :heart:
+                      Abdul Hafiz Ramadan is a professional android developer with more than 4 years of experience in software engineering. He has an educational background in Software Engineering and has been passionate about coding since high school and has participated in many courses and activities related to software engineering. During college he actively participated in software engineering related activities such as being a Lecturer Assistant, Mini Android Bootcamp Mentor and actively contributed to the Google Developer Student Clubs community as a head of core team for the curriculum and developer division. He has solid skills in Java, Kotlin, and JavaScript and PHP programming languages, he has a great interest in creating great user experiences and innovative products.
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : abdulhafizramadan-dev/abdulhafizramadan-dev.github.io    # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
@@ -30,7 +24,7 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Abdul Hafiz Ramadan
-  image             : https://user-images.githubusercontent.com/32610660/185723140-d9b27f7e-13d0-4a41-a885-58f915aa0c8e.png
+  image             : https://github.com/abdulhafizramadan-dev/abdulhafizramadan-dev.github.io/assets/111162360/8e8904e3-24b5-45ec-b64b-85f3fcb49c76
 # behance           : your_username
 # dribbble          : your_username
   email             : abdulhafizramadan.dev@gmail.com
