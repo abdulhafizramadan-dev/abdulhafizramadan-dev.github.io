@@ -18,7 +18,7 @@ curriculum and developer division. He has solid skills in Java, Kotlin, and Java
 programming languages, he has a great interest in creating great user experiences and innovative
 products.
 
-{% include elements/button.html link="https://github.com/abdulhafizramadan-dev/abdulhafizramadan-dev.github.io/files/14175298/CV.Abdul.Hafiz.Ramadan.pdf" text="Download CV" %}
+{% include elements/button.html link="https://drive.google.com/drive/folders/1I8wxeq31PWtUEbx6nzJKwC56x-zt4CvL?usp=sharing" text="Download CV" %}
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
